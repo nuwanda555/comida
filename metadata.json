@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de Platos con IA",
+  "description": "Sube la foto de un plato de comida y la IA te dirá los ingredientes, la receta y los posibles alérgenos.",
+  "requestFramePermissions": []
+}
